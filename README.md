@@ -1,0 +1,2 @@
+# test_pytorch_gpu_is_availabel
+测试pytorch的gpu是否可用
